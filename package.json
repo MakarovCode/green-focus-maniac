@@ -1,0 +1,25 @@
+{
+  "name": "green-focus-maniac",
+  "displayName": "Green Focus Maniac",
+  "description": "VSCode theme using green as main color with extra tweaks to focus on the code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Green Focus Maniac",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Green Focus Maniac-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MakarovCode/green-focus-maniac"
+  }
+}
