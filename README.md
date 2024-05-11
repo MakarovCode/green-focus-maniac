@@ -6,7 +6,7 @@
 * A little purple touch, because, why not.
 * All black background with gray touches to focus in what really matters.
 
-## For more information
+## Behold...
 
 * ![alt text](https://github.com/MakarovCode/green-focus-maniac/blob/main/img/img1.png?raw=true)
 * ![alt text](https://github.com/MakarovCode/green-focus-maniac/blob/main/img/img2.png?raw=true)
