@@ -3,7 +3,9 @@
   "publisher": "DonOneFallen",
   "displayName": "Green Focus Maniac",
   "description": "VSCode theme using green as main color with extra tweaks to focus on the code",
-  "version": "0.0.1",
+  "version": "0.0.3",
+  "license": "MIT",
+  "icon": "https://github.com/MakarovCode/green-focus-maniac/blob/main/img/img2.png?raw=true",
   "engines": {
     "vscode": "^1.89.0"
   },
