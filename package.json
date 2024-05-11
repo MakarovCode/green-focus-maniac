@@ -5,7 +5,7 @@
   "description": "VSCode theme using green as main color with extra tweaks to focus on the code",
   "version": "0.0.3",
   "license": "MIT",
-  "icon": "img/img2.png?raw=true",
+  "icon": "img/img2.png",
   "engines": {
     "vscode": "^1.89.0"
   },
