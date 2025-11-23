@@ -1,0 +1,45 @@
+{
+  "name": "@green-focus-maniac/visx-theme",
+  "version": "1.0.0",
+  "description": "Green Focus Maniac theme colors for VISX visualizations",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "visx",
+    "theme",
+    "colors",
+    "visualization",
+    "d3",
+    "react",
+    "green-focus-maniac",
+    "vscode-theme"
+  ],
+  "author": "DonOneFallen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MakarovCode/green-focus-maniac.git",
+    "directory": "visx-theme"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "peerDependencies": {
+    "@visx/visx": "^3.0.0"
+  },
+  "peerDependenciesMeta": {
+    "@visx/visx": {
+      "optional": true
+    }
+  }
+}
+
